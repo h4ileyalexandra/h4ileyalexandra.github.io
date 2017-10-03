@@ -1,0 +1,42 @@
+body{
+	
+font-family: "Helvetica", "Arial", fantasy;
+	
+color: #ffffff;
+	background-color: #efc9ff;
+	
+text-shadow: 1px 1px #000000;
+	text-align: center;
+
+}
+
+
+
+h1 {
+	
+font-size: 1.3em;
+	
+text-align: center;
+	
+text-shadow: 1px 1px #ff0000;
+
+}
+
+
+td, th {
+    
+border: 1px solid #ffffff;
+    
+text-align: left;
+    
+padding: 8px;
+
+}
+
+
+
+tr:nth-child(even) {
+    
+background-color: #ffc9ed;
+
+}
